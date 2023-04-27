@@ -18,3 +18,5 @@ INSERT INTO store VALUES (15, "Bread", 20, 3, 2);
 SELECT * FROM store;
 SELECT * FROM store ORDER BY Price;
 SELECT SUM( Quantity) FROM store
+
+## Check out my Grocery Store Database here. First, I started out by creating a table of all the items available in the store. Then I used select statements to order the items by price and also to show the sum quantity of the items.
